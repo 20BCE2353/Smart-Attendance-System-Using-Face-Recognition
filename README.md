@@ -6,9 +6,9 @@ The Smart Attendance System is a software solution that utilizes face recognitio
 
 **Real-time Attendance:** With real-time face recognition, the system can instantly recognize and mark the attendance of individuals as they enter the designated area.
 
-**Multi-face Detection:** The system can detect and recognize multiple faces simultaneously, allowing for efficient attendance tracking of a group of individuals. The Database format used in the '.csv' format file
+**Multi-face Detection:** The system can detect and recognize multiple faces simultaneously, allowing for efficient attendance tracking of a group of individuals. 
 
-**Database Management:** The system maintains a secure database to store face templates and attendance records. It ensures data privacy and enables easy retrieval of attendance data for reporting and analysis.
+**Database Management:** The system maintains a secure database to store face templates and attendance records. It ensures data privacy and enables easy retrieval of attendance data for reporting and analysis.The Database format used in the '.csv' format file.
 
 **User-friendly Interface:** The system provides an intuitive and user-friendly interface for administrators and users. It allows for easy registration of individuals, monitoring of attendance, and generation of reports.
 
